@@ -1,3 +1,14 @@
+<img width="510" height="620" alt="image" src="https://github.com/user-attachments/assets/4555cc93-2d8f-4938-ac34-20b53ca67439" />
+
+<img width="510" height="620" alt="image" src="https://github.com/user-attachments/assets/920401ab-6d97-4d9f-b237-fd7742ac460c" />
+
+<img width="510" height="620" alt="image" src="https://github.com/user-attachments/assets/08b78995-cdf9-4e9c-923e-43d788306da1" />
+
+<img width="510" height="620" alt="image" src="https://github.com/user-attachments/assets/aac6993b-d16e-4982-9b99-d0c37371ac37" />
+
+<img width="510" height="620" alt="image" src="https://github.com/user-attachments/assets/2fb7783f-71b4-48ee-b3d3-50039dd80d3e" />
+
+<img width="510" height="620" alt="image" src="https://github.com/user-attachments/assets/930b8a9b-fdca-433c-9a34-add4e75374a2" />
 TaskflowWeek3assignment
 
 TaskflowWeek3assignment is a full-stack React + Vite application integrated with a Node.js + Express backend and MongoDB database. The project allows users to manage tasks and students, showing active and completed tasks in real time.
